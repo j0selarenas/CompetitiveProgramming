@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std ;
- 
-// Bit ++ (Rated 800)
+
+// Bit++
 int main()
 {
 	int n ;
